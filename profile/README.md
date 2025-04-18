@@ -65,7 +65,7 @@
          보험상품 필터링, 건강정보 기반 추천시스템
        </td>
        <td align="center" width="150px">
-         결제 및 자동이체
+         결제 및 자동이체 (Toss payments API 연동)
        </td>
     </tr>
 </table>
