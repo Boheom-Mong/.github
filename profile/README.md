@@ -3,7 +3,7 @@
 # 🛡️ 보험몽 (InsurDream) 🛡️
 
 > **광고 전화 없이, 나에게 딱 맞는 보험 가입 시뮬레이션 웹 서비스**\
-> SeSAC MSA 기반 자바 풀스택 개발 전문가 과정 – Final Project
+> SeSAC MSA 기반 자바 풀스택 개발 전문가 양성과정 – Final Project
 
 ---
 <br>
