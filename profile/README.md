@@ -28,9 +28,6 @@
 ## 👩‍💻 멤버 구성
 <table>
     <tr height="150px">
-        <td align="center" width="150px">
-            멤버
-      </td>
        <td align="center" width="150px">
         <a href="https://github.com/JonghyeokNam"><img height="130px" width="100px" src="https://github.com/user-attachments/assets/ade59e4d-c45e-4902-b7dd-1e47c635f476"/></a>
             <br />
@@ -52,9 +49,6 @@
       </td> 
      <tr/>
      <tr>
-        <td align="center" width="150px">
-            기여
-      </td>
        <td align="center" width="150px">
          북마크 및 알림, CI/CD 및 인프라 구축
        </td>
